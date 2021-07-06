@@ -1,6 +1,14 @@
 # StarsFace
 
-StarsFace
+Face Rating Social Media App
+
+# Arch
+- MVC
+
+# Pods
+- FireBase
+- cosmos
+- SDWepimage
 
 ## Screen Shots
 
